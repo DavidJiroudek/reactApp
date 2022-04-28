@@ -1,0 +1,34 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "songName": "Šel pes do lesa",
+      "url": "https://www.youtube.com/watch?v=HKl9ONpTPc0&ab_channel=Phobulos",
+      "source": false
+    },
+    {
+      "id": 2,
+      "songName": "Four Seasons",
+      "url": "https://open.spotify.com/track/3qwVqJyXKNiPZLz9VBMd6r?si=61f8b6614bee41eb",
+      "source": true
+    },
+    {
+      "id": 3,
+      "songName": "All the small things",
+      "url": "https://www.youtube.com/watch?v=9Ht5RZpzPqw&ab_channel=blink182VEVO",
+      "source": false
+    },
+    {
+      "id": 4,
+      "songName": "Devil on my shoulder",
+      "url": "https://www.youtube.com/watch?v=bkODPAqcxvQ&ab_channel=BillyTalent",
+      "source": false
+    },
+    {
+      "id": 5,
+      "songName": "Drakula",
+      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF?si=54738d796d714a65",
+      "source": true
+    }
+  ]
+}
